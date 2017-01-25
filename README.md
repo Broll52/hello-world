@@ -1,3 +1,5 @@
 # hello-world
-Just another repository
+
+Hello, I'm writing this as part of the github activities guide. 
+
 
