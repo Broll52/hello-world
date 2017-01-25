@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-First edit on hello. 
+Hello, I'm writing this as part of the github activities guide. 
